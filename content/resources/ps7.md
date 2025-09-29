@@ -6,6 +6,8 @@ description: This resource includes problems on long-term debt, leases and Off-B
 file: /courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/0da126bb0a8ffca019e1c789f6f61f35_ps7.pdf
 file_size: 96373
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

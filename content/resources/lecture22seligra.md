@@ -4,6 +4,8 @@ description: Lecture presentation.
 file: /courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/0ee242cb553607c073a0493f7e6d798b_lecture22seligra.pdf
 file_size: 152120
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

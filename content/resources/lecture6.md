@@ -5,6 +5,8 @@ description: 'Lecture presentation covering the following topics: receivables an
 file: /courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/11340e7023ce5a26a0a304a2bbde5e1c_lecture6.pdf
 file_size: 182849
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

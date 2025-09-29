@@ -5,6 +5,8 @@ description: Lecture presentation containing a discussion of the structure and t
 file: /courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/2e2d6ae5c32c5c3b3d786732af5ac4f8_lecture10.pdf
 file_size: 158886
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

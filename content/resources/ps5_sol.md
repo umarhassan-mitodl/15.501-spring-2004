@@ -5,6 +5,8 @@ description: This resource includes solutions to problems on accounting for depr
 file: /courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/23509fe119b9ee12f45c570742397db5_ps5_sol.pdf
 file_size: 43830
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

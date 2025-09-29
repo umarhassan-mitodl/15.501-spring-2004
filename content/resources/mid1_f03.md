@@ -4,6 +4,8 @@ description: Midterm exam consisting of 2 multi-part problems.
 file: /courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/e7f2f38387fac9d3fe00dd6641a5d781_mid1_f03.pdf
 file_size: 207876
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

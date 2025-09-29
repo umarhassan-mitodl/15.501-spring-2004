@@ -5,6 +5,8 @@ description: This resource includes solutions to problems on long-term debt, lea
 file: /courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/4b92942562556110c645ffacf5e78c6d_ps7_sol.pdf
 file_size: 73203
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

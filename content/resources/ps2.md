@@ -6,6 +6,8 @@ description: This resource includes 5 problems on Chemalite, Inc. The problem se
 file: /courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/d5fe958fbcd639b8d63efe904ceb06e0_ps2.pdf
 file_size: 72046
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

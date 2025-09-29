@@ -4,6 +4,8 @@ description: This resource includes solutions to problems on seligram case write
 file: /courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/528f54df850fc1075b8a49fe4e4deb18_ps8_sol.pdf
 file_size: 61677
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
